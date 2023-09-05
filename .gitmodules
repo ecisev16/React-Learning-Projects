@@ -19,3 +19,6 @@
 [submodule "React-Created-Project1"]
 	path = React-Created-Project1
 	url = https://github.com/ecisev16/01-React-Deneme.git
+[submodule "React-Main-Learning-Project"]
+	path = React-Main-Learning-Project
+	url = https://github.com/ecisev16/react_first.git
