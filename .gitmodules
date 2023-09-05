@@ -22,3 +22,6 @@
 [submodule "React-Main-Learning-Project"]
 	path = React-Main-Learning-Project
 	url = https://github.com/ecisev16/react_first.git
+[submodule "React-Learning-Project-Router"]
+	path = React-Learning-Project-Router
+	url = https://github.com/ecisev16/12-adv-starting-project.git
