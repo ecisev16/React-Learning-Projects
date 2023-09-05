@@ -1,0 +1,21 @@
+[submodule "Projects"]
+	path = Projects
+	url = https://github.com/ecisev16/react_first.git
+[submodule "React-Learning-Project2"]
+	path = React-Learning-Project2
+	url = https://github.com/ecisev16/01-React-project-2.git
+[submodule "React-Learning-Project3"]
+	path = React-Learning-Project3
+	url = https://github.com/ecisev16/React-project-3.git
+[submodule "React-Learning-Project-API"]
+	path = React-Learning-Project-API
+	url = https://github.com/ecisev16/01-React-API-project.git
+[submodule "React-Learning-Project1"]
+	path = React-Learning-Project1
+	url = https://github.com/ecisev16/starting-react.git
+[submodule "React-Created-Project2"]
+	path = React-Created-Project2
+	url = https://github.com/ecisev16/bootstrap-popup.git
+[submodule "React-Created-Project1"]
+	path = React-Created-Project1
+	url = https://github.com/ecisev16/01-React-Deneme.git
